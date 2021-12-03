@@ -18,6 +18,3 @@ The 3D mode works in the same way. Select a function you would like to graph and
 function and d/dy for the y partial derivative. You can rotate the plot by dragging your mouse. 
 If you want to see the the bivariate normal of the plane, press the "normal" button in the keyboard. 
 You can switch back to 2D mode by pressing the 2D mode button in the top left corner. 
-
-Libraries:
-sympy module
