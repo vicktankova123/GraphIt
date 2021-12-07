@@ -1,3 +1,6 @@
+Demo Video Link:
+https://www.youtube.com/watch?v=_tXQuZXdOAI
+
 Description:
 The name of my project is GraphIt and it is a graphing calculator. It has 2 modes
 a 2D graphing mode and a 3D graphing mode. It can graph any function of your choice
